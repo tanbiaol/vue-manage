@@ -1,24 +1,7 @@
-# vue-manage
+登录的账号密码有两个   一个是管理员账号  一个是员工账号
 
-## Project setup
-```
-yarn install
-```
+管理员账号: admin
+密码:       12345
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+员工账号: tanbiao   
+密码:     1225
